@@ -1,1 +1,1 @@
-# github-pages-test
+This is a lesson at my school
